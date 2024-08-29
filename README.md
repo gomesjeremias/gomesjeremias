@@ -1,5 +1,8 @@
 - Ola ,
-Meu nome é Jeremias , amo tecnologia, e estou fascinado pelo mundo do desenvolvimento web. 
+Meu nome é Jeremias , amo tecnologia, e estou fascinado pelo mundo do desenvolvimento web.
+Sempre gostei de tecnologia, e iniciei na áre ade redes estruturadas, porém o desejo de solucionar
+problemas das pessoas me levou a me apaixonar pela área de programação, onde vi que existe um mundo
+de ferramentas que ajudam a fazer isto. 
 Este é meu espaço onde posso mostrar meus projetos. Fiquem à vontate para olhar e analisar.🖥️🌐
 
 - 👋 Hello ,
