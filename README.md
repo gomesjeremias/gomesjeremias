@@ -1,6 +1,6 @@
--Ola ,
+- Ola ,
 Meu nome é Jeremias , amo tecnologia, e estou fascinado pelo mundo do desenvolvimento web. 
-Este é meu espaço onde posso mostrar meus projetos. Fiquem à vontate para olhar e analisar.
+Este é meu espaço onde posso mostrar meus projetos. Fiquem à vontate para olhar e analisar.🖥️🌐
 
 - 👋 Hello ,
 My name is Jeremias, I love technology, and I'm fascinated by the world of web development. 
